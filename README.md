@@ -1,3 +1,3 @@
 # hello-world
-Just another repository
-This is a learning project
+Just another repository.
+This is a learning project.
